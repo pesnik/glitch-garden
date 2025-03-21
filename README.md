@@ -1,7 +1,5 @@
 # Glitch Garden
 
-![Glitch Garden Logo](https://via.placeholder.com/150x150)
-
 > **Turning chaos into wisdom: Master distributed systems through interactive simulation**
 
 ## Overview
@@ -55,8 +53,6 @@ Glitch Garden consists of four main components:
 2. **API Server**: Golang (or Node.js) backend for orchestration and user management
 3. **Simulation Engine**: Rust with MadSim for deterministic simulation execution
 4. **Garden Nodes**: Docker containers representing distributed system components
-
-![Architecture Diagram](https://via.placeholder.com/600x300)
 
 ## Use Cases
 
